@@ -1,5 +1,5 @@
 # news image scraper
-News image scraper is a simple Python script built in 2025 that automatically downloads the first image from a list of Varzezh-3 news article URLs. This tool is easy to use and helps you download images from the main list of news articles on the https://www.varzesh3.com/ website.
+News image scraper is a simple Python script built in 2025 that automatically downloads the first image from a list of Varzezh-3 news article URLs. This tool is easy to use and helps you download images from the main list of news articles on the [varzesh3](https://www.varzesh3.com/) website.
 ## Requirements
 - Python 3.x
 - requests library
